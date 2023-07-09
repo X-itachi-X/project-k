@@ -12,7 +12,7 @@ function print() {
   return (
     <main>
       This is print funtion
-      const abc = "hello world"
+      {const abc = "hello world"}
     </main>
   )
 }
