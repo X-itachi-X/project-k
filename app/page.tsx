@@ -1,4 +1,5 @@
 import Image from 'next/image'
+import React from 'react'
 
 export default function Login() {
   return (
@@ -11,8 +12,7 @@ export default function Login() {
 function print() {
   return (
     <main>
-      This is print funtion
-      {const abc = "hello world"}
+      
     </main>
   )
 }
