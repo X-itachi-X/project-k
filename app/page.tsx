@@ -10,9 +10,10 @@ export default function Login() {
 }
 
 function print() {
+  const name = 'Aakriti';
   return (
     <main>
-      
+      {name}
     </main>
   )
 }
